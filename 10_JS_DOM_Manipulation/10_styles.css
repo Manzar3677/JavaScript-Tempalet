@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: "Comic Sans MS",sans-serif;
+}
+h2{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+}
+div{
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}
+form{
+    background-color: khaki;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+}
+input[type='text']
+{
+    font-size: 19PX;
+    height: 30px;
+    border: 1px solid black;
+}
+button{
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    padding: 7px 20px;
+    border: none;
+    outline: none;
+
+}
+button:hover{
+    box-shadow: 0 0 15 black;
+    cursor: pointer;
+}
+]
